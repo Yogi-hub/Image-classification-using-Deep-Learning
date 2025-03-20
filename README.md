@@ -110,7 +110,3 @@ Please ensure your code follows good practices and includes comments where neces
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides a clear and concise overview of your project, making it easy for others to understand, install, and use your code. Feel free to adjust sections like the license or contributing guidelines based on your preferences! Let me know if you'd like further refinements.
