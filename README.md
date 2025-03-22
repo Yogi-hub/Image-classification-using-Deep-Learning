@@ -1,6 +1,6 @@
 # Image Classification Using Deep Learning
 
-This project demonstrates the implementation of deep learning techniques for classifying handwritten digits from the MNIST dataset. It includes a custom-built Multi-Layer Perceptron (MLP) from scratch and an improved version using PyTorch, incorporating data augmentation and advanced neural network architectures. (Note: This project is intended to study the effectiveness of MLP for image classification, hence CNN is not used)
+This project demonstrates the implementation of deep learning techniques for classifying handwritten digits from the MNIST dataset. It includes a custom-built Multi-Layer Perceptron (MLP) from scratch and an improved version using PyTorch, incorporating data augmentation and advanced neural network architectures. (**Note:** This project is intended to study the effectiveness/working of MLP for image classification, hence CNN is not used)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
